@@ -1,0 +1,9 @@
+com\cts\employeemicroservice\service\EmployeeServiceImplTest.class
+com\cts\employeemicroservice\model\EmployeeTest.class
+com\cts\employeemicroservice\model\MessageResponseTest.class
+com\cts\employeemicroservice\EmployeeMicroserviceApplicationTests.class
+com\cts\employeemicroservice\client\OfferClientTest.class
+com\cts\employeemicroservice\controller\EmployeeControllerTest.class
+com\cts\employeemicroservice\model\EmployeeOffersTest.class
+com\cts\employeemicroservice\exception\EmployeeExceptionHandlerTest.class
+com\cts\employeemicroservice\model\AuthResponseTest.class

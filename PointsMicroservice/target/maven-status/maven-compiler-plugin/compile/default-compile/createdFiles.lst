@@ -1,0 +1,14 @@
+com\cts\pointsmicroservice\client\EmployeeClient.class
+com\cts\pointsmicroservice\PointsMicroserviceApplication.class
+com\cts\pointsmicroservice\config\SpringFoxConfig.class
+com\cts\pointsmicroservice\controller\PointsController.class
+com\cts\pointsmicroservice\model\Offer.class
+com\cts\pointsmicroservice\model\MessageResponse.class
+com\cts\pointsmicroservice\service\PointsService.class
+com\cts\pointsmicroservice\exception\PointsExceptionHandler.class
+com\cts\pointsmicroservice\model\AuthResponse.class
+com\cts\pointsmicroservice\service\PointsServiceImpl.class
+com\cts\pointsmicroservice\client\AuthClient.class
+com\cts\pointsmicroservice\exception\InvalidUserException.class
+com\cts\pointsmicroservice\client\OfferClient.class
+com\cts\pointsmicroservice\exception\MicroserviceException.class
